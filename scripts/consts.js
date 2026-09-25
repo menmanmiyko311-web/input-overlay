@@ -103,6 +103,7 @@ export const RAW_CODE_TO_KEY_NAME = {
     108: "key_numpad_enter",
     96: "key_numpad_0",
     110: "key_numpad_decimal"
+    235: "key_muhenkan",
 };
 
 export const HID_TO_KEY_NAME = {
