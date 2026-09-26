@@ -103,6 +103,9 @@ export const RAW_CODE_TO_KEY_NAME = {
     108: "key_numpad_enter",
     96: "key_numpad_0",
     235: "key_muhenkan",
+    79: "key_henkan",
+    80: "key_katakanahiragana",
+    192: "key_hankakuzenkaku",
     110: "key_numpad_decimal"
 };
 
